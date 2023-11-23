@@ -1,14 +1,10 @@
-📘 The Code Magazine
-
-The Basic Language of the Web: HTML
-
 Posted by Laura Jones on Monday, June 21st 2027
 
 All modern websites and web applications are built using three fundamental technologies: HTML, CSS and JavaScript. These are the languages of the web.
 
 In this post, let's focus on HTML. We will learn what HTML is all about, and why you too should learn it.
 
-What is HTML?
+
 
 HTML stands for HyperText Markup Language. It's a markup language that web developers use to structure and describe the content of a webpage (not a programming language).
 
