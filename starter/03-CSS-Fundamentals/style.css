@@ -3,6 +3,8 @@
   padding: 0;
 }
 
+/* PAGE SECTIONS */
+
 body {
   color: #444;
   font-family: sans-serif;
@@ -45,6 +47,8 @@ aside {
   padding-bottom: 50px; */
   padding: 50px 0;
 }
+
+/* SMALLER ELEMENTS */
 
 h1,
 h2,
@@ -149,6 +153,16 @@ a:hover {
 a:active {
   background-color: black;
   font-style: italic;
+}
+
+nav a:link {
+  margin-right: 30px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+nav a:link:last-child{
+  margin-right: 0;
 }
 
 /* Resolving conflicts id->class->element*/
